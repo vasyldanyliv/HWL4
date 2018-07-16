@@ -1,0 +1,142 @@
+.start {
+   display: flex;
+   justify-content: space-between; 
+}
+.adver {
+    width: 23%;
+    height: 270px;
+    background: #ccc;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+}
+.logo {
+    height: 200px;
+    background: #ccc;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+}
+.but {
+    display: flex;
+    justify-content: space-between;
+
+}
+.but3 {
+    width: 48%;
+}
+header button{   
+    height: 60px;
+    margin-top:10px ;
+    background: #C88F8F;
+    flex-grow: 1;
+
+}
+.button5 {
+    display: flex;
+    justify-content: space-between;
+}
+.button5 button{
+    margin: 20px auto; 
+    height:70px;
+    flex-grow: 1;
+    background: #C88F8F;
+    font-size: 20px;
+}
+.search{
+    padding-top: 20px; 
+    height:100px; 
+    background: #ccc;
+    display: flex;
+}
+.search input {
+    flex-grow: 1;
+    height: 60px;
+}
+.search button{
+    width: 100px;
+    height: 65px;
+    margin: 0 15px ;
+}
+.search div:nth-of-type(2) { 
+   margin-top:50px;
+}
+.video-box div button{
+    margin-top: 50px; 
+    background: #ccc;
+    width: 270px;
+    height: 50px;
+    background: #C88F8F;
+}
+.inside4Box {
+    display: flex;
+    justify-content: space-between;
+}
+.moreBox {
+    height: 270px;
+    background: #ccc;
+    margin-bottom: 15px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    width: 23%;
+}
+.inside5Box, .endBox {
+    display: flex;
+    justify-content: space-between;
+}
+.inside2Box, .inside2Box2 {
+    width: 23%; 
+}
+.box1, .box2, .box5 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    height: 270px;
+    background: #ccc;
+    margin-bottom: 15px;
+    background: #C88F8F;
+}
+.bigBox3 {
+    height: 550px;
+    width: 48%;
+    background: #ccc;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    background: #C88F8F;
+}
+.box4 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    height: 270px;
+    background: #ccc;
+    margin-bottom: 15px;
+}
+.endBox1, .endBox3 {
+    height: 270px;
+    background: #ccc;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    width: 23%;
+    background: #C88F8F;
+}
+.endBox2 {
+    height:270px;
+    background: #ccc;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    width: 48%;
+}
